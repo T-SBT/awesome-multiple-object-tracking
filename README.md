@@ -59,7 +59,7 @@ Multiple Object Tracking in Deep Learning Approaches:A Survey [[paper](https://w
 
 **UCMCTrack**: UCMCTrack: Multi-Object Tracking with Uniform Camera Motion Compensation [[paper](https://browse.arxiv.org/abs/2312.08952)] **AAAI 2024**
 
-**FRoG-MOT**: FRoG-MOT: Fast and Robust Generic Multiple-Object Tracking by IoU and Motion-State Associations  [[paper]([https://browse.arxiv.org/abs/2312.08952](https://openaccess.thecvf.com/content/WACV2024/papers/Ogawa_FRoG-MOT_Fast_and_Robust_Generic_Multiple-Object_Tracking_by_IoU_and_WACV_2024_paper.pdf))] **WACV 2024**
+**FRoG-MOT**: FRoG-MOT: Fast and Robust Generic Multiple-Object Tracking by IoU and Motion-State Associations  [[paper]([https://browse.arxiv.org/abs/2312.08952](https://openaccess.thecvf.com/content/WACV2024/papers/Ogawa_FRoG-MOT_Fast_and_Robust_Generic_Multiple-Object_Tracking_by_IoU_and_WACV_2024_paper.pdf)] **WACV 2024**
 
 <a id="markdown-2023" name="2023"></a>
 ### **2023**
